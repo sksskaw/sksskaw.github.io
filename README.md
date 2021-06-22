@@ -1,4 +1,4 @@
-findawayer.github.io
+sksskaw.github.io
 ====================
 
 ## About
@@ -6,4 +6,4 @@ findawayer.github.io
 This is my personal web implementation portfolio.
 Any of you interested in seeing it, please visit:
 
-https://findawayer.github.io
+https://sksskaw.github.io
